@@ -1,5 +1,5 @@
 # panicless_osx
-an arbitrary mem emulation exploit for macOS (Big Sur)
+This exploit is working with r/w privilige exc. but needs fix on reading mem/leak side due its abit buggy.
 
 [panicless_osx] lets move in the dangly sketchy exploit
 <br />
