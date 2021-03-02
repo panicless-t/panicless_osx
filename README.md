@@ -1,6 +1,7 @@
 # panicless_osx
 This exploit is working with r/w privilige exc. but needs fix on reading mem/leak side due its abit buggy.
 
+## debug
 [panicless_osx] lets move in the dangly sketchy exploit
 <br />
 [panicless_osx] getting kernel task.
