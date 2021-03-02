@@ -3,3 +3,4 @@ This exploit is working with r/w privilige exc. but needs fix on reading mem/lea
 
 ## debug
 
+![alt text](images/mm.png)
