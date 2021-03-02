@@ -2,11 +2,11 @@
 This exploit is working with r/w privilige exc. but needs fix on reading mem/leak side due its abit buggy.
 
 ## debug
-`[panicless_osx] lets move in the dangly sketchy exploit
+`[panicless_osx] lets move in the dangly sketchy exploit\n
 <br />
-[panicless_osx] getting kernel task.
+[panicless_osx] getting kernel task.\n
 <br />
-[panicless_osx] writing argument to dlopen.
+[panicless_osx] writing argument to dlopen.\n
 <br />
 [+] done!
 <br />
